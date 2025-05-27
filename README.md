@@ -1,5 +1,5 @@
-<h1 align="center">Hey, I'm Tysen! 👋</h1>
-<h3 align="center">A aspiring security researcher, who messes around with iOS.</h3>
+<h1 align="center">hey 👋</h1>
+<h3 align="center">a security researcher, who messes around with ios</h3>
 
 - 🔭 I’m currently working on [[@REDACTED]](https://google.com/404)
 
